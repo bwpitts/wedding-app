@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "wedding-app",
+    "description": "This project is really great.",
+    "slug": "wedding-app",
+    "privacy": "public",
+    "sdkVersion": "30.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "image": "./assets/images/header-image.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "scheme": "exp22b0a32558f848079a47775a8b964936",
+  }
+}
