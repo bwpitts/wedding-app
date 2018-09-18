@@ -2,28 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca14f8d0-eb36-4611-b93a-8f5d5f4877de" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/fonts/CormorantGaramond-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/CormorantGaramond-BoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/CormorantGaramond-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/CormorantGaramond-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/CormorantGaramond-LightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/CormorantGaramond-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/CormorantGaramond-MediumItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/CormorantGaramond-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/CormorantGaramond-SemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/CormorantGaramond-SemiBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/footer-image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/header-image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/menu-icon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Screens/FAQScreen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Screens/HomeScreen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Screens/ItineraryScreen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Screens/PhotosScreen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Screens/RegistryScreen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Screens/SettingsScreen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Screens/ToDoScreen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Screens/TravelScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/HiltonGardenInnImage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/theInnImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/GalleryImage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Allisyn.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/Allisyn.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Alyson.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/Alyson.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Avery.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/Avery.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Brunch-Icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/Brunch-Icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Bryce.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/Bryce.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Cesar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/Cesar.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Cocktail-Hour-Icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/Cocktail-Hour-Icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Danielle.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/Danielle.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Drew.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/Drew.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Jess.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/Jess.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Josh.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/Josh.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Meaghan.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/Meaghan.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Melvin.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/Melvin.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Paige.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/Paige.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Reception-Icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/Reception-Icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Ring-Icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/Ring-Icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Ryan.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/Ryan.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Sophie.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/Sophie.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Trevor.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/Trevor.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Zach.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/Zach.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/footer-image.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/footer-image.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/header-image.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/header-image.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/menu-icon.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/menu-icon.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/splash.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/splash.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Screens/FAQScreen.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Screens/HomeScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Screens/HomeScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Screens/ItineraryScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Screens/ItineraryScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Screens/PhotosScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Screens/PhotosScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Screens/RegistryScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Screens/RegistryScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Screens/ToDoScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Screens/ToDoScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Screens/TravelScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Screens/TravelScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Screens/WeddingPartyScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Screens/WeddingPartyScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ItineraryItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ItineraryItem.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,14 +53,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/App.js">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="GalleryImage.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/GalleryImage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+            <state relative-caret-position="47">
+              <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
               <folding>
-                <element signature="e#0#38#0" expanded="true" />
+                <element signature="e#0#41#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -49,8 +69,8 @@
       <file leaf-file-name="ItineraryScreen.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Screens/ItineraryScreen.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+            <state relative-caret-position="272">
+              <caret line="99" column="108" selection-start-line="99" selection-start-column="108" selection-end-line="99" selection-end-column="108" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -61,8 +81,8 @@
       <file leaf-file-name="RegistryScreen.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Screens/RegistryScreen.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+            <state relative-caret-position="332">
+              <caret line="27" column="108" selection-start-line="27" selection-start-column="108" selection-end-line="27" selection-end-column="108" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -70,13 +90,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PhotosScreen.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Screens/PhotosScreen.js">
+      <file leaf-file-name="ItineraryItem.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/ItineraryItem.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+            <state relative-caret-position="406">
+              <caret line="56" column="5" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="56" selection-end-column="5" />
               <folding>
-                <element signature="e#0#41#0" expanded="true" />
+                <element signature="e#0#39#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -85,8 +105,8 @@
       <file leaf-file-name="ToDoScreen.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Screens/ToDoScreen.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+            <state relative-caret-position="381">
+              <caret line="27" column="108" selection-start-line="27" selection-start-column="108" selection-end-line="27" selection-end-column="108" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -94,11 +114,47 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FAQScreen.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Screens/FAQScreen.js">
+      <file leaf-file-name="WeddingPartyScreen.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Screens/WeddingPartyScreen.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="91" lean-forward="true" selection-start-line="1" selection-end-line="2" selection-end-column="91" />
+            <state relative-caret-position="332">
+              <caret line="251" column="108" selection-start-line="251" selection-start-column="108" selection-end-line="251" selection-end-column="108" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TravelScreen.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Screens/TravelScreen.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="64" column="108" selection-start-line="64" selection-start-column="108" selection-end-line="64" selection-end-column="108" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WeddingParty.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/WeddingParty.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="421">
+              <caret line="50" column="3" selection-start-line="50" selection-start-column="3" selection-end-line="50" selection-end-column="3" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PhotosScreen.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Screens/PhotosScreen.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="464">
+              <caret line="72" column="2" selection-start-line="72" selection-start-column="2" selection-end-line="72" selection-end-column="2" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -109,20 +165,8 @@
       <file leaf-file-name="HomeScreen.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Screens/HomeScreen.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="32" column="87" selection-start-line="32" selection-start-column="87" selection-end-line="32" selection-end-column="87" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TravelScreen.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Screens/TravelScreen.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="91" selection-start-line="2" selection-start-column="91" selection-end-line="2" selection-end-column="91" />
+            <state relative-caret-position="360">
+              <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="112" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -153,17 +197,21 @@
         <option value="$PROJECT_DIR$/src/Screens/Travel.js" />
         <option value="$PROJECT_DIR$/src/Screens/Registry.js" />
         <option value="$PROJECT_DIR$/src/Screens/Photos.js" />
-        <option value="$PROJECT_DIR$/src/Screens/ItineraryScreen.js" />
-        <option value="$PROJECT_DIR$/src/Screens/RegistryScreen.js" />
-        <option value="$PROJECT_DIR$/src/Screens/PhotosScreen.js" />
-        <option value="$PROJECT_DIR$/src/Screens/ToDoScreen.js" />
         <option value="$PROJECT_DIR$/src/Screens/FAQScreen.js" />
         <option value="$PROJECT_DIR$/src/Screens/SettingsScreen.js" />
-        <option value="$PROJECT_DIR$/app.json" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/app.json" />
         <option value="$PROJECT_DIR$/App.js" />
+        <option value="$PROJECT_DIR$/src/components/GalleryImage.js" />
         <option value="$PROJECT_DIR$/src/Screens/HomeScreen.js" />
+        <option value="$PROJECT_DIR$/src/Screens/PhotosScreen.js" />
+        <option value="$PROJECT_DIR$/src/components/ItineraryItem.js" />
+        <option value="$PROJECT_DIR$/src/components/WeddingParty.js" />
         <option value="$PROJECT_DIR$/src/Screens/TravelScreen.js" />
+        <option value="$PROJECT_DIR$/src/Screens/ItineraryScreen.js" />
+        <option value="$PROJECT_DIR$/src/Screens/RegistryScreen.js" />
+        <option value="$PROJECT_DIR$/src/Screens/ToDoScreen.js" />
+        <option value="$PROJECT_DIR$/src/Screens/WeddingPartyScreen.js" />
       </list>
     </option>
   </component>
@@ -184,7 +232,7 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="58" />
+    <option name="x" value="26" />
     <option name="y" value="49" />
     <option name="width" value="1894" />
     <option name="height" value="929" />
@@ -195,6 +243,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -210,13 +259,13 @@
             <path>
               <item name="wedding-app" type="b2602c69:ProjectViewProjectNode" />
               <item name="wedding-app" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="wedding-app" type="b2602c69:ProjectViewProjectNode" />
               <item name="wedding-app" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="wedding-app" type="b2602c69:ProjectViewProjectNode" />
@@ -228,7 +277,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -239,13 +287,14 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images" />
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/assets/fonts" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/images" />
       <recent name="$PROJECT_DIR$/assets" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets" />
-      <recent name="$PROJECT_DIR$/assets/fonts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -271,14 +320,15 @@
       <option name="presentableId" value="Default" />
       <updated>1537196689949</updated>
       <workItem from="1537196692273" duration="15238000" />
+      <workItem from="1537292140612" duration="1279000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15238000" />
+    <option name="totallyTimeSpent" value="16517000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="58" y="49" width="1894" height="929" extended-state="0" />
+    <frame x="26" y="49" width="1894" height="929" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="11" />
@@ -288,41 +338,41 @@
       <window_info anchor="bottom" id="Version Control" order="4" />
       <window_info id="npm" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="3" visible="true" weight="0.32932693" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.2526998" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="0" />
-      <window_info anchor="bottom" id="Find" order="6" weight="0.32932693" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.32932693" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info id="npm" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="7" />
+      <window_info id="Favorites" order="0" side_tool="true" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.25" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
       <window_info anchor="bottom" id="Find" order="6" />
       <window_info anchor="right" id="Database" order="0" />
       <window_info anchor="bottom" id="Terminal" order="3" visible="true" weight="0.32932693" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="5" />
-      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.25" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -332,36 +382,24 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/images/splash.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/images/icon.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/images/header-image.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/images/menu-icon.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Screens/SettingsScreen.js">
+    <entry file="file://$PROJECT_DIR$/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="102" selection-start-line="10" selection-start-column="102" selection-end-line="10" selection-end-column="144" />
+        <state relative-caret-position="90">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Screens/ItineraryScreen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="52" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Screens/ToDoScreen.js">
+    <entry file="file://$PROJECT_DIR$/src/Screens/RegistryScreen.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
@@ -381,50 +419,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Screens/RegistryScreen.js">
+    <entry file="file://$PROJECT_DIR$/src/Screens/ToDoScreen.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Screens/ItineraryScreen.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/images/footer-image.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Screens/HomeScreen.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="32" column="87" selection-start-line="32" selection-start-column="87" selection-end-line="32" selection-end-column="87" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
@@ -441,10 +439,173 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Screens/HomeScreen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="87" selection-start-line="32" selection-start-column="87" selection-end-line="32" selection-end-column="87" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Screens/TravelScreen.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="91" selection-start-line="2" selection-start-column="91" selection-end-line="2" selection-end-column="91" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/splash.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/header-image.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/menu-icon.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Screens/SettingsScreen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="102" selection-start-line="10" selection-start-column="102" selection-end-line="10" selection-end-column="144" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/footer-image.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Screens/FAQScreen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="91" selection-start-line="1" selection-end-line="2" selection-end-column="91" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/GalleryImage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/WeddingParty.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="50" column="3" selection-start-line="50" selection-start-column="3" selection-end-line="50" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Screens/TravelScreen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="64" column="108" selection-start-line="64" selection-start-column="108" selection-end-line="64" selection-end-column="108" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/ItineraryItem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="56" column="5" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="56" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Screens/PhotosScreen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="72" column="2" selection-start-line="72" selection-start-column="2" selection-end-line="72" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Screens/HomeScreen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="112" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Screens/ItineraryScreen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="99" column="108" selection-start-line="99" selection-start-column="108" selection-end-line="99" selection-end-column="108" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Screens/RegistryScreen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="27" column="108" selection-start-line="27" selection-start-column="108" selection-end-line="27" selection-end-column="108" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Screens/ToDoScreen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="27" column="108" selection-start-line="27" selection-start-column="108" selection-end-line="27" selection-end-column="108" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Screens/WeddingPartyScreen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="251" column="108" selection-start-line="251" selection-start-column="108" selection-end-line="251" selection-end-column="108" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>

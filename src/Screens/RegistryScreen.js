@@ -9,7 +9,7 @@ class RegistryScreen extends Component {
                 <Header noLeft>
                     <Body style={{width: 400}}>
                     <Title width={{flex:1}}>
-                        <Button transparent onPress={()=> this.props.navigation.navigate("Home")}><Text style={{fontSize: 30, fontFamily: "TimesNewRomanPSMT", width: 400}}>MCKENZIE & BENJAMIN</Text></Button>
+                        <Button transparent onPress={()=> this.props.navigation.navigate("Home")}><Text style={{fontSize: 20, fontFamily: "TimesNewRomanPSMT", width: 400}}>MCKENZIE & BENJAMIN</Text></Button>
                     </Title>
                     </Body>
                     <Right style={{width: "20%"}}>
@@ -25,6 +25,7 @@ class RegistryScreen extends Component {
                 }}>
                     <Text>Registry Screen</Text>
                 </Content>
+                <Text style={{fontFamily: "Zapfino", fontSize: 25, marginBottom: 15, padding: 5}}>M+B</Text>
             </Container>
         )
     }

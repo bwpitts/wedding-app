@@ -249,6 +249,7 @@ class WeddingPartyScreen extends Component {
                         description="This is Bryce"
                     />
                 </Content>
+                <Text style={{fontFamily: "Zapfino", fontSize: 25, marginBottom: 15, padding: 5}}>M+B</Text>
             </Container>
         )
     }

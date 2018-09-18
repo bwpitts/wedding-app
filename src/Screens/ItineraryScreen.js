@@ -29,7 +29,7 @@ class ItineraryScreen extends Component {
                             borderBottomColor: 'black',
                             borderBottomWidth: 1,
                             width: 75,
-                            marginTop: 15
+                            margin: 15
                         }}
                     />
                     <ItineraryItem
@@ -47,7 +47,7 @@ class ItineraryScreen extends Component {
                             borderBottomColor: 'black',
                             borderBottomWidth: 1,
                             width: 75,
-                            marginTop: 15
+                            margin: 20
                         }}
                     />
                     <ItineraryItem
@@ -65,7 +65,7 @@ class ItineraryScreen extends Component {
                             borderBottomColor: 'black',
                             borderBottomWidth: 1,
                             width: 75,
-                            marginTop: 15
+                            margin: 20
                         }}
                     />
                     <ItineraryItem
@@ -83,7 +83,7 @@ class ItineraryScreen extends Component {
                             borderBottomColor: 'black',
                             borderBottomWidth: 1,
                             width: 75,
-                            marginTop: 15
+                            margin: 20
                         }}
                     />
                     <ItineraryItem
@@ -97,6 +97,7 @@ class ItineraryScreen extends Component {
                         mapUrl="https://maps.google.com/?cid=9239695006770815484"
                     />
                 </Content>
+                <Text style={{fontFamily: "Zapfino", fontSize: 25, marginBottom: 15, padding: 5}}>M+B</Text>
             </Container>
         )
     }

@@ -25,6 +25,7 @@ class ToDoScreen extends Component {
                 }}>
                     <Text>Things To Do Screen</Text>
                 </Content>
+                <Text style={{fontFamily: "Zapfino", fontSize: 25, marginBottom: 15, padding: 5}}>M+B</Text>
             </Container>
         )
     }

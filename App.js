@@ -9,7 +9,6 @@ import TravelScreen from "./src/Screens/TravelScreen";
 import RegistryScreen from "./src/Screens/RegistryScreen";
 import PhotosScreen from "./src/Screens/PhotosScreen";
 import ToDoScreen from "./src/Screens/ToDoScreen";
-import FAQScreen from "./src/Screens/FAQScreen";
 import WeddingPartyScreen from "./src/Screens/WeddingPartyScreen";
 
 export default () =>{
@@ -42,23 +41,22 @@ const MyDrawerNavigator = createDrawerNavigator({
     Registry: { screen: RegistryScreen },
     "Wedding Party": { screen: WeddingPartyScreen },
     Photos: { screen: PhotosScreen },
-    "Things To Do":{ screen: ToDoScreen },
-    FAQ: { screen: FAQScreen }
+    "Things To Do":{ screen: ToDoScreen }
 },{
     contentComponent:CustomDrawerContentComponent,
     drawerPosition: 'right',
 });
 
 const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
+    container: {
+        flex: 1,
+        backgroundColor: '#fff',
+        alignItems: 'center',
+        justifyContent: 'center',
+    },
     drawerImage:{
-      height: 150,
-      width: 150,
-      borderRadius: 75
+        height: 150,
+        width: 150,
+        borderRadius: 75
     }
 });
