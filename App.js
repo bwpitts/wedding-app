@@ -1,5 +1,5 @@
 import React from 'react';
-import { StyleSheet, Text, View, Image, Dimensions } from 'react-native';
+import { StyleSheet, Text, View, Image, AsyncStorage } from 'react-native';
 import { createDrawerNavigator, DrawerItems } from 'react-navigation';
 import { Container, Header, Body, Content } from 'native-base';
 
@@ -10,13 +10,53 @@ import RegistryScreen from "./src/Screens/RegistryScreen";
 import PhotosScreen from "./src/Screens/PhotosScreen";
 import ToDoScreen from "./src/Screens/ToDoScreen";
 import WeddingPartyScreen from "./src/Screens/WeddingPartyScreen";
+import Login from "./src/components/Login";
 
-export default () =>{
-    return(
-        <MyDrawerNavigator/>
-    )
+const isSignedIn = () => {
+    return new Promise((resolve, reject) => {
+        AsyncStorage.getItem("userToken")
+            .then(res => {
+                if (res !== null){
+                    resolve(true);
+                } else {
+                    resolve(false);
+                }
+            })
+            .catch(err => reject(err));
+    })
+};
+
+export default class App extends React.Component{
+    constructor(props){
+        super(props);
+
+        this.state={
+            signedIn: false,
+            checkedSignIn: false
+        };
+    }
+    componentDidMount(){
+        isSignedIn()
+            .then(res => this.setState({ signedIn: res, checkedSignIn: true }))
+            .catch(err => alert("An error occurred"));
+    }
+
+    render(){
+        const { checkedSignIn, signedIn } = this.state;
+
+        if (!checkedSignIn){
+            return null;
+        }
+        if(signedIn){
+            return <MyDrawerNavigator/>
+        } else {
+            return <Login/>
+        }
+    }
+
 }
-var menuImage = require('./assets/images/icon.png');
+
+var menuImage = './assets/images/icon.png';
 
 const CustomDrawerContentComponent = (props) => (
     <Container>
@@ -24,7 +64,7 @@ const CustomDrawerContentComponent = (props) => (
             <Body>
             <Image
                 style={styles.drawerImage}
-                source={menuImage}
+                source={require(menuImage)}
             />
             </Body>
         </Header>
@@ -35,6 +75,7 @@ const CustomDrawerContentComponent = (props) => (
 );
 
 const MyDrawerNavigator = createDrawerNavigator({
+    // Login: { screen: Login},
     Home: { screen: HomeScreen },
     Itinerary: { screen: ItineraryScreen },
     Travel: { screen: TravelScreen },

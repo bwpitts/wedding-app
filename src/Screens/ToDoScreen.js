@@ -24,8 +24,8 @@ class ToDoScreen extends Component {
                     justifyContent: 'center'
                 }}>
                     <Text>Things To Do Screen</Text>
+                    <Text style={{fontFamily: "Zapfino", fontSize: 25, marginBottom: 15, padding: 5}}>M+B</Text>
                 </Content>
-                <Text style={{fontFamily: "Zapfino", fontSize: 25, marginBottom: 15, padding: 5}}>M+B</Text>
             </Container>
         )
     }

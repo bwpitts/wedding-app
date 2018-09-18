@@ -96,8 +96,8 @@ class ItineraryScreen extends Component {
                         locationState="STEVENSVILLE, MD 21666"
                         mapUrl="https://maps.google.com/?cid=9239695006770815484"
                     />
+                    <Text style={{fontFamily: "Zapfino", fontSize: 25, marginBottom: 15, padding: 5}}>M+B</Text>
                 </Content>
-                <Text style={{fontFamily: "Zapfino", fontSize: 25, marginBottom: 15, padding: 5}}>M+B</Text>
             </Container>
         )
     }

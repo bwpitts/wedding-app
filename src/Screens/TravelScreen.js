@@ -19,11 +19,9 @@ class TravelScreen extends Component {
                     </Right>
                 </Header>
                 <Content contentContainerStyle={{
-                    flex: 1,
                     alignItems: 'center',
-                    justifyContent: 'center'
                 }}>
-                    <Text>Travel Screen</Text>
+                    <Text style={styles.header}>Travel Screen</Text>
                     <View
                         style={{
                             borderBottomColor: 'black',
@@ -61,8 +59,8 @@ class TravelScreen extends Component {
                         {/*<Text style={styles.locationDesc}>Location Description</Text>*/}
                         <Button block light onPress={()=> Linking.openURL("http://hiltongardeninn3.hilton.com/en/hotels/maryland/hilton-garden-inn-kent-island-BWIKIGI/index.html")} style={styles.button}><Text>View</Text></Button>
                     </View>
+                    <Text style={{fontFamily: "Zapfino", fontSize: 25, marginBottom: 15, padding: 5}}>M+B</Text>
                 </Content>
-                <Text style={{fontFamily: "Zapfino", fontSize: 25, marginBottom: 15, padding: 5}}>M+B</Text>
             </Container>
         )
     }
@@ -96,7 +94,6 @@ const styles = StyleSheet.create({
     },
     container:{
         alignItems: "center",
-        justifyContent: "center"
     },
     button:{
         borderWidth: 1,
