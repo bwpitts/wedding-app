@@ -39,6 +39,26 @@ export default class LogInScreen extends React.Component {
                 this.props.navigation.navigate("Home");
             })
             .catch(error => {
+                if(error.message == "There is no user record corresponding to this identifier. The user may have been deleted."
+                    && this.state.password === "Benzie"){
+                    this.signupNewUser(this.state.email, this.state.password);
+                } else {
+                    this.setState({errorMessage: error.message});
+                }
+            })
+    }
+
+    signupNewUser(email, password){
+        firebase
+            .auth()
+            .createUserWithEmailAndPassword(email, password)
+            .then((data)=>{
+                this.setState({errorMessage: null});
+                this.setState({currentUser: data.user.email});
+                this._storeUser(data.user);
+                this.props.navigation.navigate("Home");
+            })
+            .catch(error=> {
                 this.setState({errorMessage: error.message});
             })
     }

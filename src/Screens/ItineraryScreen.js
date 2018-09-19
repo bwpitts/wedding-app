@@ -2,8 +2,13 @@ import React, { Component } from 'react';
 import { View, Text, StyleSheet, Image } from 'react-native';
 import { Icon, Button, Container, Header, Content, Right, Title, Body } from 'native-base';
 import ItineraryItem from "../components/ItineraryItem";
+import firebase from "firebase";
 
 class ItineraryScreen extends Component {
+    gatingUsers(){
+        let userEmail = firebase.auth().currentUser.email;
+        console.log(userEmail);
+    }
     render(){
         return(
             <Container>
